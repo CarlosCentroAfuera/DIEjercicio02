@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DIEjercicio01</string>
+    <string name="nombre">Nombre</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="followers">Followers</string>
+    <string name="estrellita">Estrellita</string>
+    <string name="following">Following</string>
+    <string name="asunto">Asunto</string>
+    <string name="contenido">Contenido</string>
+    <string name="fecha">Fecha</string>
+    <string name="estrellita">Estrellita</string>
+</resources>
