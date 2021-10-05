@@ -9,4 +9,9 @@
     <string name="contenido">Contenido</string>
     <string name="fecha">Fecha</string>
     <string name="estrellita">Estrellita</string>
+    <string name="back">Back</string>
+    <string name="continue_2">Continue</string>
+    <string name="this_is_a_tittle">This is a tittle</string>
+    <string name="texto_largo">Esto es un textoooooooooooooooooooooooooooooooooooooooooooooo muy largo\nEsto es un textooooooooooooooooo muy largo\nEsto es un textooooooooooooooooo muy largo\nEsto es un textooooooooooooooooo muy largo\nEsto es un textooooooooooooooooo muy largo\nEsto es un textooooooooooooooooo muy largo\n</string>
+    <string name="log_out">Log Out</string>
 </resources>
